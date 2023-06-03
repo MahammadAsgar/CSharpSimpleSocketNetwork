@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\NetworkC#\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.exe
+C:\Users\HP\Desktop\NetworkC#\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.deps.json
+C:\Users\HP\Desktop\NetworkC#\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.runtimeconfig.json
+C:\Users\HP\Desktop\NetworkC#\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.runtimeconfig.dev.json
+C:\Users\HP\Desktop\NetworkC#\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.dll
+C:\Users\HP\Desktop\NetworkC#\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.pdb
+C:\Users\HP\Desktop\NetworkC#\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NetworkC#\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\NetworkC#\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\NetworkC#\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.AssemblyInfo.cs
+C:\Users\HP\Desktop\NetworkC#\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NetworkC#\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.dll
+C:\Users\HP\Desktop\NetworkC#\SocketServer\SocketServer\obj\Debug\net5.0\refint\SocketServer.dll
+C:\Users\HP\Desktop\NetworkC#\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.pdb
+C:\Users\HP\Desktop\NetworkC#\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.genruntimeconfig.cache
+C:\Users\HP\Desktop\NetworkC#\SocketServer\SocketServer\obj\Debug\net5.0\ref\SocketServer.dll
